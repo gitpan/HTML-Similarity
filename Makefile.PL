@@ -3,7 +3,7 @@ use inc::Module::Install;
 
 name 'HTML-Similarity';
 author 'Yung-chung Lin <henearkrxern@gmail.com>';
-version '0.1.0';
+version '0.1.1';
 license 'Perl';
 requires 'HTML::DOM' => 0;
 requires 'Algorithm::LCS' => 0;

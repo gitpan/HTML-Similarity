@@ -61,7 +61,7 @@ __END__
 
 =head1 NAME
 
-Lingua::CJK::Tokenizer - CJK Tokenizer
+HTML::Similarity - Calculate the structural similarity between two HTML documents
 
 =head1 SYNOPSIS
 
