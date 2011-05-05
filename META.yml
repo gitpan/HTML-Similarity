@@ -18,6 +18,7 @@ no_index:
 requires:
   Algorithm::LCS: 0
   HTML::DOM: 0
+  XML::DOM: 0
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.1.1
+version: 0.2.0
